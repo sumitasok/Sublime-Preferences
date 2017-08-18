@@ -12,6 +12,7 @@ Sublime Text 3/ Packages/ User specific preferences
 
 # api-doc Snippet
 
+- Template to do API documentation with fields already marked using markdown.
 - implementation of https://gist.github.com/iros/3426278 (iros - Documentation of API)
 
 # Preferences

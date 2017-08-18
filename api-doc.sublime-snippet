@@ -81,5 +81,8 @@ ${11:<Just a sample call to your endpoint in a runnable format (ajax call or a c
     <!-- Optional: Scope the tab trigger will be active in -->
     <!-- <scope>text.html.markdown</scope> -->
     <!-- Optional: Description to show in the menu -->
-    <description>Api Documentation documented by https://gist.github.com/iros/3426278</description>
+    <description>
+    	Template to do API documentation with fields already marked using markdown.
+    	Api Documentation documented by https://gist.github.com/iros/3426278
+    </description>
 </snippet>
