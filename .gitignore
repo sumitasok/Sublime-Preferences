@@ -1,0 +1,11 @@
+.kitefs
+GoSublime
+GoSublime-aux.sublime-settings
+Package Control.cache
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.sublime-settings
+Package Control.user-ca-bundle
+SublimeLinter
+SublimeLinter.sublime-settings
+oscrypto-ca-bundle.crt
