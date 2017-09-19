@@ -1,6 +1,5 @@
 {
 	"auto_complete_selector": "text.html.erb, source - comment, meta.tag - punctuation.definition.tag.begin, text",
-	"color_scheme": "Packages/User/SublimeLinter/Blackboard (SL).tmTheme",
 	"font_size": 14,
 	"hot_exit": false,
 	"ignored_packages":
