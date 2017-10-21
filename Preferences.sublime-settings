@@ -1,5 +1,6 @@
 {
 	"auto_complete_selector": "text.html.erb, source - comment, meta.tag - punctuation.definition.tag.begin, text",
+	"color_scheme": "Packages/Color Scheme - Default/Breakers.tmTheme",
 	"font_size": 14,
 	"hot_exit": false,
 	"ignored_packages":
@@ -8,5 +9,7 @@
 		"Vintage"
 	],
 	"remember_open_files": false,
-	"show_definitions": true
+	"show_definitions": true,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }
