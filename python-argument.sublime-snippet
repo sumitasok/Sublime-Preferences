@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-parser.add_argument("-${2:shortcut}", "--${3:long-name}", dest="${4:destination member name}",
-                        help="${5: help message}", required=${6:True/False})
-args = parser.parse_args(${7:argv})
+parser.add_argument("-${2:shortcut}", "--${3:long-name}",
+					dest="${4:destination member name}",
+					help="${5: help message}", required=${6:True/False})
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>argument</tabTrigger>
